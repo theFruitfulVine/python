@@ -1,7 +1,7 @@
 #This python script will calculate the roots of an equation
 #using the formular method
 
-#(c) theFruitfulVine
+#(c) Jesus Christ is Lord - theFruitfulVine
 
 
 import cmath
